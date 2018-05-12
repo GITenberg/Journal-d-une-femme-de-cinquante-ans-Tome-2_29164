@@ -1,0 +1,37 @@
+_repo: Journal-d-une-femme-de-cinquante-ans-Tome-2_29164
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: La Tour du Pin Gouvernet, Henriette Lucie Dillon, marquise de
+    birthdate: 1770
+    deathdate: 1853
+    gutenberg_agent_id: '33274'
+    url: http://www.gutenberg.org/2009/agents/33274
+  editor:
+    agent_name: Liedekerke-Beaufort, Aymar Marie Ferdinand de, comte
+    birthdate: 1846
+    gutenberg_agent_id: '33275'
+    url: http://www.gutenberg.org/2009/agents/33275
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2009-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29164'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nobility -- France -- Diaries'
+- !lcsh 'France -- Social life and customs -- 19th century'
+- !lcsh 'La Tour du Pin Gouvernet, Henriette Lucie Dillon, marquise de, 1770-1853
+  -- Diaries'
+- !lcsh 'France -- Social life and customs -- 18th century'
+- !lcsh 'United States -- Social life and customs -- 1783-1865'
+- !lcc 'DC'
+title: Journal d'une femme de cinquante ans, Tome 2
+url: http://www.gutenberg.org/ebooks/29164
