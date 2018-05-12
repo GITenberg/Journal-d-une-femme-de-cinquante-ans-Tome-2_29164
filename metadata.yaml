@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '33275'
     url: http://www.gutenberg.org/2009/agents/33275
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29164#Journal-d-une-femme-de-cinquante-ans-Tome-2
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2009-06-19'
 gutenberg_type: Text
